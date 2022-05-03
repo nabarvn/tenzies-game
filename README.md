@@ -13,7 +13,7 @@ But the fun part of this game is that it allows for creativity. Loads of differe
 </div>
 
 <p align="center">
-  <a href="https://nabarvn.github.io/tenzies-game/">View Project</a>
+  <a href="https://nabarvn.github.io/tenzies-game/" target="_blank">View Project</a>
 </p>
 
 
