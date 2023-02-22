@@ -4,14 +4,14 @@
 
 body {
   margin: 0;
-  background-color: #0B2434;
+  background-color: #0b2434;
   padding: 30px;
   display: flex;
   justify-content: center;
 }
 
 main {
-  background-color: #F5F5F5;
+  background-color: #f5f5f5;
   height: 600px;
   max-width: 800px;
   border-radius: 5px;
@@ -50,7 +50,7 @@ main {
   width: 100px;
   border: none;
   border-radius: 6px;
-  background-color: #5035FF;
+  background-color: #5035ff;
   color: white;
   font-size: 1.2rem;
   cursor: pointer;
@@ -66,4 +66,10 @@ main {
   margin-top: 0;
   text-align: center;
   width: 400px;
+}
+
+@media only screen and (max-width: 500px) {
+  body {
+    background-color: #f5f5f5;
+  }
 }
