@@ -1,13 +1,13 @@
 {
-  "main.css": "/tenzies-game/static/css/main.1b8b2fee.chunk.css",
-  "main.js": "/tenzies-game/static/js/main.8fe5aabe.chunk.js",
-  "main.js.map": "/tenzies-game/static/js/main.8fe5aabe.chunk.js.map",
+  "main.css": "/tenzies-game/static/css/main.1ee3e41d.chunk.css",
+  "main.js": "/tenzies-game/static/js/main.a7974d3a.chunk.js",
+  "main.js.map": "/tenzies-game/static/js/main.a7974d3a.chunk.js.map",
   "static/js/1.3e2cef2a.chunk.js": "/tenzies-game/static/js/1.3e2cef2a.chunk.js",
   "static/js/1.3e2cef2a.chunk.js.map": "/tenzies-game/static/js/1.3e2cef2a.chunk.js.map",
   "runtime~main.js": "/tenzies-game/static/js/runtime~main.1d2148d1.js",
   "runtime~main.js.map": "/tenzies-game/static/js/runtime~main.1d2148d1.js.map",
-  "static/css/main.1b8b2fee.chunk.css.map": "/tenzies-game/static/css/main.1b8b2fee.chunk.css.map",
+  "static/css/main.1ee3e41d.chunk.css.map": "/tenzies-game/static/css/main.1ee3e41d.chunk.css.map",
   "index.html": "/tenzies-game/index.html",
-  "precache-manifest.ad7d776b052d7e51c0487bd5e3142806.js": "/tenzies-game/precache-manifest.ad7d776b052d7e51c0487bd5e3142806.js",
+  "precache-manifest.e1cb1567a78d959744806df2f469a445.js": "/tenzies-game/precache-manifest.e1cb1567a78d959744806df2f469a445.js",
   "service-worker.js": "/tenzies-game/service-worker.js"
 }
