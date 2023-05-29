@@ -6,12 +6,13 @@ html,
 body {
   margin: 0;
   padding: 0;
+  height: 100svh;
 }
 
 .main-body {
   background-color: #0b2434;
   max-width: 100vw;
-  height: 100vh;
+  height: 100svh;
   padding: 25px;
 }
 
